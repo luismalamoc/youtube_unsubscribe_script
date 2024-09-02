@@ -71,6 +71,5 @@ Ensure that the redirect URI `http://localhost:8080/` is added to the OAuth 2.0 
 
 ## License
 
-This script is provided "as-is" without any warranties. Use it at your own risk.
-
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
